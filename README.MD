@@ -31,8 +31,6 @@ Experienced Cloud Engineer with over 5 years of expertise in supporting/optimizi
 ### Skills
 
 - **Cloud Platforms:** AWS, Microsoft Azure
-- **Technologies:** APIs, SaaS, Linux, Windows, Mac
-
 ---
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/brian-minaya-6a419096/) or check out my projects on [GitHub](https://github.com/BrianMinaya).
