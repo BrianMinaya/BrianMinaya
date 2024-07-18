@@ -11,7 +11,7 @@
 
 ### Professional Profile
 
-Experienced Cloud Engineer with over 5 years of expertise in supporting/optimizing IT and cloud infrastructure. Proven track record in managing AWS and Azure environments, implementing security best practices, and troubleshooting complex cloud-based issues. Adept at designing and delivering efficient IT/cloud solutions that minimize risks and enhance performance. Passionate about continuous learning and applying innovative technologies to drive business success.
+Experienced IT Cloud Engineer with over 5 years of expertise in supporting/optimizing IT and cloud infrastructure. Proven track record in managing AWS and Azure environments, implementing security best practices, and troubleshooting complex cloud-based issues. Adept at designing and delivering efficient IT/cloud solutions that minimize risks and enhance performance. Passionate about continuous learning and applying innovative technologies to drive business success.
 
 ---
 
