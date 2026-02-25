@@ -10,24 +10,28 @@
 ---
 
 ### Professional Profile
-Howdy, I'm Brian 👋
+<h1>Howdy, I'm Brian 👋</h1>
 
-Senior Consultant @ Deloitte within AI & Engineering, based out of Houston, TX. I spend my days working across Azure, AWS, and GCP, helping teams make sense of multi-cloud environments and navigate the technical side of things so nothing gets lost in translation.
-My approach is pretty simple: meet people where they are, understand what the business actually needs, and make sure the architecture we put in place holds up when things get real. That usually means wearing a lot of hats, whether it's untangling complexity, scaling automation, or making sure observability is in place so teams aren't flying blind.
-What I'm working with:
+<p>Senior Consultant at Deloitte within AI & Engineering, based out of Houston, TX. I spend my days working across Azure, AWS, and GCP, helping teams make sense of multi-cloud environments and navigate the technical side of things so nothing gets lost in translation.</p>
 
-Multi-cloud architecture & governance (Azure, AWS, GCP)
-Infrastructure as Code (Terraform, CI/CD pipelines)
-Monitoring & observability (Datadog)
-Automation (Python, Bash)
-Security & compliance frameworks
+<p>My approach is pretty simple: meet people where they are, understand what the business actually needs, and make sure the architecture we put in place holds up when things get real. That usually means wearing a lot of hats, whether it's untangling complexity, scaling automation, or making sure observability is in place so teams aren't flying blind.</p>
 
-What I'm exploring:
+<h3>What I'm working with:</h3>
+<ul>
+  <li>Multi-cloud architecture & governance (Azure, AWS, GCP)</li>
+  <li>Infrastructure as Code (Terraform, CI/CD pipelines)</li>
+  <li>Monitoring & observability (Datadog)</li>
+  <li>Automation (Python, Bash)</li>
+  <li>Security & compliance frameworks</li>
+</ul>
 
-AI engineering and the intersection of cloud infrastructure + AI systems
-Building projects that sit at that crossroads
+<h3>What I'm exploring:</h3>
+<ul>
+  <li>AI engineering and the intersection of cloud infrastructure + AI systems</li>
+  <li>Building projects that sit at that crossroads</li>
+</ul>
 
-I'm always down to connect with folks in the cloud, infrastructure, or AI space. Feel free to reach out.
+<p>I'm always down to connect with folks in the cloud, infrastructure, or AI space. Feel free to reach out.</p>
 
 ---
 
