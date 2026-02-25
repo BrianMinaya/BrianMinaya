@@ -10,8 +10,24 @@
 ---
 
 ### Professional Profile
+Howdy, I'm Brian 👋
 
-Experienced IT Cloud Engineer with over 5 years of expertise in supporting/optimizing IT and cloud infrastructure. Proven track record in managing AWS and Azure environments, implementing security best practices, and troubleshooting complex cloud-based issues. Adept at designing and delivering efficient IT/cloud solutions that minimize risks and enhance performance. Passionate about continuous learning and applying innovative technologies to drive business success.
+Senior Consultant at Deloitte within AI & Engineering, based out of Houston, TX. I spend my days working across Azure, AWS, and GCP, helping teams make sense of multi-cloud environments and navigate the technical side of things so nothing gets lost in translation.
+My approach is pretty simple: meet people where they are, understand what the business actually needs, and make sure the architecture we put in place holds up when things get real. That usually means wearing a lot of hats, whether it's untangling complexity, scaling automation, or making sure observability is in place so teams aren't flying blind.
+What I'm working with:
+
+Multi-cloud architecture & governance (Azure, AWS, GCP)
+Infrastructure as Code (Terraform, CI/CD pipelines)
+Monitoring & observability (Datadog)
+Automation (Python, Bash)
+Security & compliance frameworks
+
+What I'm exploring:
+
+AI engineering and the intersection of cloud infrastructure + AI systems
+Building projects that sit at that crossroads
+
+I'm always down to connect with folks in the cloud, infrastructure, or AI space. Feel free to reach out.
 
 ---
 
