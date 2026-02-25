@@ -12,7 +12,7 @@
 ### Professional Profile
 Howdy, I'm Brian 👋
 
-Senior Consultant at Deloitte within AI & Engineering, based out of Houston, TX. I spend my days working across Azure, AWS, and GCP, helping teams make sense of multi-cloud environments and navigate the technical side of things so nothing gets lost in translation.
+Senior Consultant @ Deloitte within AI & Engineering, based out of Houston, TX. I spend my days working across Azure, AWS, and GCP, helping teams make sense of multi-cloud environments and navigate the technical side of things so nothing gets lost in translation.
 My approach is pretty simple: meet people where they are, understand what the business actually needs, and make sure the architecture we put in place holds up when things get real. That usually means wearing a lot of hats, whether it's untangling complexity, scaling automation, or making sure observability is in place so teams aren't flying blind.
 What I'm working with:
 
